@@ -2,7 +2,7 @@
 
 use Krugozor\Hash\AverageHash;
 
-include 'AverageHash.php';
+include './src/AverageHash.php';
 
 try {
     $hash1 = AverageHash::getHash('1.jpg');
