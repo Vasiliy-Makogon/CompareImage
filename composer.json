@@ -1,0 +1,28 @@
+{
+    "name": "krugozor/hash",
+    "description": "PHP Compare Image (Average Hash, Simple Hash)",
+    "type": "library",
+    "keywords": [
+        "compare image",
+        "php compare image",
+        "average hash",
+        "simple hash",
+        "perceptual hash"
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "authors": [
+        {
+            "name": "nvthaovn"
+        },
+        {
+            "name": "Vasiliy Makogon"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Krugozor\\Hash\\": "src/"
+        }
+    }
+}
