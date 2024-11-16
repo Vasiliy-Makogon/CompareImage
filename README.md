@@ -2,6 +2,12 @@
 A fast image comparison library for PHP 8. Get Average Hash string and detect duplicate image.
 Solution from [nvthaovn/CompareImage](https://github.com/nvthaovn/CompareImage) was refactored (tested on PHP 8.2).
 
+## Install
+
+```
+composer require krugozor/hash
+```
+
 ## Example (two similar but different pictures)
 
 #### 1.jpg
