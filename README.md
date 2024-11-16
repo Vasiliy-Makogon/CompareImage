@@ -17,7 +17,7 @@ composer require krugozor/hash
 ![alt text](2.jpg)
 
 ```php
-include 'AverageHash.php';
+include './src/AverageHash.php';
 
 $hash1 = AverageHash::getHash('1.jpg');
 $hash2 = AverageHash::getHash('2.jpg');
