@@ -10,7 +10,9 @@
         "perceptual hash"
     ],
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "ext-fileinfo": "*",
+        "ext-gd": "*"
     },
     "authors": [
         {
